@@ -8,7 +8,11 @@ enjoy gaming,singing,coding and traveling.<br/>
 
 I think being a developer is a difficult but rewarding job !<br/>
 
-Fighting everyone !
+Fighting everyone !!
+
+
+
+
 
 ![ThumbsUpOkayGIF](https://github.com/HyunDove/HyunDove/assets/139856413/a3a94639-f5c4-4444-8ab7-56cdeb620521)
 
@@ -26,5 +30,6 @@ Fighting everyone !
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
 
 <br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonGoBi&show_icons=true&theme=radical)
