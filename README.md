@@ -4,11 +4,11 @@
 🖐️ 안녕하세요 
 제일 잘하진 못하지만 제일 좋아하는 개발자 성준규 입니다.<br/> 
 I mainly develop using Java <br/>
-enjoy gaming,singing,coding and traveling.<br/>
+enjoy gaming,coding and traveling.<br/>
 
 I think being a developer is a difficult but rewarding job !<br/>
 
-Fighting everyone !!
+Fighting everyone !
 
 
 
