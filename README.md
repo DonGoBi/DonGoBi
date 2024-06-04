@@ -8,8 +8,6 @@ enjoy gaming,coding and traveling.<br/>
 
 I think being a developer is a difficult but rewarding job !<br/>
 
-
-
 Fighting everyone !!
 
 
