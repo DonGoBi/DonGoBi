@@ -15,8 +15,6 @@ Fighting everyone !!
 
 
 
-
-
 ![ThumbsUpOkayGIF](https://github.com/HyunDove/HyunDove/assets/139856413/a3a94639-f5c4-4444-8ab7-56cdeb620521)
 
 
