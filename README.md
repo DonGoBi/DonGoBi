@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/jk961207@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/cake0312@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
 🖐️ 안녕하세요 
-제일 잘하진 못하지만 제일 좋아하는 개발자 성준규 입니다.<br/> 
+개발을 제일 잘하진 못하지만 개발을 제일 좋아하는 개발자 성준규 입니다.<br/> 
 I mainly develop using Java <br/>
 enjoy gaming,coding and traveling.<br/>
 
