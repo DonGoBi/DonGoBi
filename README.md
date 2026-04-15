@@ -1,44 +1,37 @@
-## ℹ️ Information
+ℹ️ Information
 <img src="https://img.shields.io/badge/jk961207@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/cake0312@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-
-🖐️ 안녕하세요 
-개발을 제일 잘하진 못하지만 개발을 제일 좋아하는 개발자 성준규 입니다.<br/> 
+🖐️ 안녕하세요
+개발을 제일 잘하진 못하지만 개발을 제일 좋아하는 개발자 성준규 입니다.<br/>
 I mainly develop using Java <br/>
 enjoy gaming,coding and traveling.<br/>
-
 I think being a developer is a difficult but rewarding job !<br/>
-
 Fighting everyone !!
 
-
-## 🧑‍💻 Skills
-**Platforms & Languages** <br/><br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> 
+🧑‍💻 Skills
+Platforms & Languages <br/><br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JPA-47A248?style=flat-square&logo=Hibernate&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-47A248?style=flat-square&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <br/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/><img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/><img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <br/>
-
-**Tools** <br/><br/>
+Tools <br/><br/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E98CD?style=flat-square&logo=SonarQube&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
 <br/>
-
-
